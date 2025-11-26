@@ -5,3 +5,5 @@ venw
 .idea
 /.idea
 idea
+
+__pycache__
